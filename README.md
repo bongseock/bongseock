@@ -1,4 +1,12 @@
 ### Hi there 👋
+## Bongseok Kim Github
+## Overview
+This repo is created by bongseok for test the workflow and so on...
+
+## issue
+In this Github, workflow actions run well.
+Github connect does not supply the company enterprise git.
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
